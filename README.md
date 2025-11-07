@@ -1,0 +1,1 @@
+A clean, app to model house prices on the Ames dataset. It auto-loads or accepts uploads, cleans and encodes features, ranks them with Mutual Information, compares multiple models (Linear Regression, Decision Tree, Random Forest, optional XGBoost), and gives you rich metrics (R²/RMSE/MAE, Precision@±tolerance%), quick visuals, and a downloadable CSV of test predictions.
